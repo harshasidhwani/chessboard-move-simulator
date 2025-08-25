@@ -10,7 +10,7 @@ A simple console-based Java application to simulate movements of Pawn, King, and
   - Pawn at last rank (no moves).
   - King at corners/edges (restricted moves).
   - Queen at edges/corners.
-- Includes JUnit 5 tests for correctness.
+- Includes JUnit 5 tests for code coverage.
 
 # Requirements
 - Java 11+

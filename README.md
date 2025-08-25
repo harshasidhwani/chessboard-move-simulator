@@ -21,6 +21,6 @@ A simple console-based Java application to simulate movements of Pawn, King, and
 
 1. Clone the Repository
 2. Run Main class
-3. Sample Input
+3. Sample Input :
    King, D5
 4. Possible Moves: C4, C5, C6, D4, D6, E4, E5, E6
